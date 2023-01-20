@@ -19,6 +19,9 @@ try:
 except ValueError:
     print("Invalid input....")
 
+except:
+    print("Ummmm... Some Error Occurred...")
+
 # qr image generation
     generate_image = features.make_image(
         fill_color=f"{colour}", back_color="white")

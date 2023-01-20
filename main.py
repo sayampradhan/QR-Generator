@@ -6,6 +6,7 @@ data = input("Enter some data: ")
 
 # for qr colour setting
 y_colour = input("Do you want to add colour? (y/n)\n")
+
 if y_colour.lower() == 'y':
     colour = input("Write the colour: ")
 

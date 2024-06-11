@@ -2,5 +2,5 @@
 A Python-based simple QR code generator.
 
 # Features
-- Creates QR Code
+- Create QR Code
 - Colourful QR Code
